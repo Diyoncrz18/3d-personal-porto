@@ -18,6 +18,7 @@ import {
   starbucks,
   tesla,
   shopify,
+  cafe,
   carrent,
   jobit,
   tripguide,
@@ -29,8 +30,8 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "project",
+    title: "project",
   },
   {
     id: "contact",
@@ -102,7 +103,6 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  
 ];
 
 const experiences = [
@@ -189,7 +189,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Cafe",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -206,7 +206,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: cafe,
     source_code_link: "https://github.com/",
   },
   {
