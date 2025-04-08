@@ -34,7 +34,6 @@ const ServiceCard = ({ index, title, icon }) => (
     </motion.div>
   </Tilt>
 );
-
 const About = () => {
   return (
     <>
@@ -51,7 +50,7 @@ const About = () => {
         with experience in JavaScript and expertise in frameworks like React and
         Node.js. I'm a quick learner and work closely with clients to create
         efficient, scalable, and user-friendly solutions that solve real-world
-        problems. Let's work together to bring your ideas to life!
+        problems. Let's work together to bring your =""eas to life!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

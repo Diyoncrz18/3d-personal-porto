@@ -26,6 +26,10 @@ import {
 
 export const navLinks = [
   {
+    id: "home",
+    title: "Home",
+  },
+  {
     id: "about",
     title: "About",
   },
@@ -198,16 +202,12 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
         name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: cafe,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://project-cafe-kxsu.vercel.app/",
   },
   {
     name: "Job IT",
