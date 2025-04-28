@@ -27,6 +27,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import cafe from "./cafe.png";
+import web_sentiment from "./web_sentiment.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -58,6 +59,7 @@ export {
   starbucks,
   tesla,
   cafe,
+  web_sentiment,
   carrent,
   jobit,
   tripguide,
